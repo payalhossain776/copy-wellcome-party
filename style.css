@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* shere item */
+h6{
+    color: #F00;
+    font-family: Inter;
+    font-size: 12px;
+    font-weight: 500;
+}
+.portfolio{
+    border: 2px solid thistle;
+    max-width: 1320px;
+}
+.portfolio .portfolio-text h3{
+    color: #070211;
+    font-family: Merriweather;
+    font-size: 40px;
+    font-weight: 900;
+}
+.portfolio .portfolio-text p{
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+}
